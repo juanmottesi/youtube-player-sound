@@ -1,7 +1,7 @@
-import { ExampleComponent } from '.'
+import { YoutubeAudio } from '.'
 
-describe('ExampleComponent', () => {
+describe('YoutubeAudio', () => {
   it('is truthy', () => {
-    expect(ExampleComponent).toBeTruthy()
+    expect(YoutubeAudio).toBeTruthy()
   })
 })
